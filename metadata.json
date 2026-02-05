@@ -1,0 +1,8 @@
+{
+  "name": "Sohozseba AI",
+  "description": "An AI-powered service portal designed to provide easy access to emergency contacts, public services, and essential information in Bangladesh, enhanced with Gemini's intelligent assistance.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
